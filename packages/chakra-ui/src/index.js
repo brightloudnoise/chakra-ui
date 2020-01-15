@@ -27,6 +27,8 @@ export { default as CSSReset } from "./CSSReset";
 export { default as CircularProgress } from "./CircularProgress";
 export * from "./CircularProgress";
 
+export * from "./DatePicker";
+
 export { default as Divider } from "./Divider";
 export * from "./Drawer";
 
